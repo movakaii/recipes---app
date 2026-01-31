@@ -1,5 +1,3 @@
-# recipes---app
-Backend for recipes app (Erika)
 const express = require("express");
 const router = express.Router();
 const Recipe = require("../models/Recipe"); // Модель рецептов у Алии
